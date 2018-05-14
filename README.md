@@ -1,8 +1,8 @@
-# JourneyToIronman
+# Journey To Ironman
 A collection of notes about my journey to IRONMAN
 
-# Synopsis
-## Race day flashback
-## Why IRONMAN
-## IRONMAN equipment analysis
-## IRONMAN trainning principle 
+## Synopsis
+### Race day flashback
+### Why IRONMAN
+### IRONMAN equipment analysis
+### IRONMAN trainning principle 
