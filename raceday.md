@@ -50,7 +50,8 @@
 
 跑步26.2英里，用时4小时42分。
 
-![test image](images/IMG_0590.JPG)
+# 官方成绩：
+![成绩](images/IMG_3546.JPG)
 
 # 链接
 
