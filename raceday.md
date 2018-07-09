@@ -50,6 +50,8 @@
 
 跑步26.2英里，用时4小时42分。
 
+![test image](images/IMG_0590.JPG)
+
 # 链接
 
 [IMSR 2018 on Youtube](https://www.youtube.com/watch?v=sRzTtMHxqJ0&feature=share)
